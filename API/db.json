@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "name": "Cillian",
+      "email": "cilllianmurphy@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Peter",
+      "email": "peterparker@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "cillian@gmail.com",
+      "password": "123",
+      "name": "Cillian",
+      "id": 3
+    },
+    {
+      "email": "bruce@gmail.com",
+      "password": "123",
+      "name": "Bruce",
+      "id": 4
+    },
+    {
+      "email": "tony@gmail.com",
+      "password": "tony@123",
+      "name": "Tony Stark",
+      "id": 5
+    },
+    {
+      "email": "diana@gmail.com",
+      "password": "123",
+      "name": "Diana",
+      "id": 6
+    },
+    {
+      "email": "scarlet@gmail.com",
+      "password": "123",
+      "name": "Scarlet",
+      "id": 7
+    },
+    {
+      "email": "sam@gmail.com",
+      "password": "123",
+      "name": "Sam",
+      "id": 8
+    },
+    {
+      "email": "duwaragie@gmail.com",
+      "password": "123",
+      "name": "Duwaragie",
+      "id": 9
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 11
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Colombo"
+    },
+    {
+      "name": "Dominos",
+      "address": "Dehiwala",
+      "contact": 2222,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 55555,
+      "address": "Colombo"
+    },
+    {
+      "name": "Banana Leaf",
+      "address": "Colombo 3",
+      "contact": 333333,
+      "id": 4
+    }
+  ]
+}
